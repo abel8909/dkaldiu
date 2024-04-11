@@ -4,6 +4,9 @@ https://live-c.cf.dmcdn.net/sec2(ZIIFgV8GM59mwOhnJipu593bP-_qsgOAXtg8LCyM2JRgaiT
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="BOLIVIA",UNITEL NACIONAL
 https://live-c.cf.dmcdn.net/sec2(HwBVjoJlbavlQInkdQn4O_Cd7dkvdLT7AwC7Ycx2wMgkzSrzLzxVmBDQkWYYt641eRNQSDdSFtyNjkg6zxbQhu8wUoSYQUE73X2hjuACrQ0)/dm/3/x7wzxiw/s/live-3.m3u8
 
+#EXTINF:-1 tvg-id="PAT SCZ" tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="BOLIVIA",PAT SCZ
+https://w8.redpat.tv:7777/play/110/index.m3u8
+
 #EXTINF:-1 tvg-id="BOLIVISION"tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="BOLIVIA",BOLIVISION SCZ HD
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
 
